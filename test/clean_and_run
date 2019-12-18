@@ -1,1 +1,0 @@
-echo && echo "********************************" && sudo rm -rf /opt/registry_data/docker/registry/v2/* && docker restart registry && sleep 5 && ./test/test
